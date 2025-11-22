@@ -13,3 +13,5 @@ A local text to speech app for Windows PC featuring 17 different voice models, s
 ========================================
 
 AkumaVenom's Discord: https://discord.gg/Uf8Q8usSmk
+
+Donation/Tips https://www.paypal.me/akumacreative
